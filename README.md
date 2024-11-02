@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @dariorovetta
-- 👀 I’m interested in Data Scientist
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects in python
-- 📫 How to reach me dariorovetta@gmail.com
+# 👋 Hola, soy Darío Ezequiel Rovetta
 
-<!---
-dariorovetta/dariorovetta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 Sobre mí
+Soy analista de datos y programador con experiencia en análisis masivo de datos, automatización y visualización en plataformas como **Looker Studio**, **Power BI** y **Google Cloud**. Tengo una sólida formación en **Python**, enfocándome en bibliotecas como **Pandas** para el análisis de datos y **Seaborn** y **Matplotlib** para la visualización. Me apasiona aplicar y expandir mis habilidades en entornos desafiantes para contribuir al éxito de los proyectos con soluciones innovadoras.
+
+### 💡 Experiencia
+- **Análisis de datos**: Optimización de estrategias de venta, automatización de flujos de trabajo y análisis de datos masivo en equipo.
+- **Automatización**: Desarrollo de soluciones con **APIs** y procesos en **Google Cloud** para optimizar operaciones y reducir tareas manuales.
+- **Visualización**: Diseño de dashboards en **Looker Studio** y **Power BI** para fortalecer la toma de decisiones y mejorar procesos empresariales.
+- **Desarrollo web**: Creación de páginas dinámicas con **HTML**, **CSS** y **JavaScript** para presentaciones educativas y otros proyectos.
+
+### 📚 Educación
+- **Python y Bases de Datos**: Cursos en Digital House, UNSL, Coderhouse e INTI.
+- **Machine Learning**: Experiencia en modelos predictivos y optimización de análisis de encuestas.
+
+### 💼 Colaboraciones
+Estoy abierto a colaborar en proyectos relacionados con:
+- **Ciencia de datos** y **Machine Learning**
+- **Análisis de datos** y **visualización**
+- **Automatización de procesos** y **Cloud Computing**
+
+### 📫 Contacto
+Puedes contactarme para proyectos, consultas o colaboraciones:
+- 📧 [dariorovetta@gmail.com](mailto:dariorovetta@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dariorovetta/)
+
+¡Gracias por visitar mi perfil y por tu interés en mi trabajo! 🚀
