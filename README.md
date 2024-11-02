@@ -9,16 +9,6 @@ Soy analista de datos y programador con experiencia en análisis masivo de datos
 - **Visualización**: Diseño de dashboards en **Looker Studio** y **Power BI** para fortalecer la toma de decisiones y mejorar procesos empresariales.
 - **Desarrollo web**: Creación de páginas dinámicas con **HTML**, **CSS** y **JavaScript** para presentaciones educativas y otros proyectos.
 
-### 📚 Educación
-- **Python y Bases de Datos**: Cursos en Digital House, UNSL, Coderhouse e INTI.
-- **Machine Learning**: Experiencia en modelos predictivos y optimización de análisis de encuestas.
-
-### 💼 Colaboraciones
-Estoy abierto a colaborar en proyectos relacionados con:
-- **Ciencia de datos** y **Machine Learning**
-- **Análisis de datos** y **visualización**
-- **Automatización de procesos** y **Cloud Computing**
-
 ### 📫 Contacto
 Puedes contactarme para proyectos, consultas o colaboraciones:
 - 📧 [dariorovetta@gmail.com](mailto:dariorovetta@gmail.com)
